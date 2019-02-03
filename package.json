@@ -1,10 +1,9 @@
 {
   "name": "hexo-tag-real-time-calculator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A hexo plugin for inserting values which need to be calculated on real time.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/libook/hexo-tag-real-time-calculator.git"
