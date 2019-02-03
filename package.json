@@ -1,0 +1,30 @@
+{
+  "name": "hexo-tag-real-time-calculator",
+  "version": "1.0.0",
+  "description": "A hexo plugin for inserting values which need to be calculated on real time.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libook/hexo-tag-real-time-calculator.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "real",
+    "time",
+    "calculator",
+    "plugin",
+    "calculate",
+    "calculation",
+    "dynamic",
+    "value"
+  ],
+  "author": "libook <libook7@gmial.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/libook/hexo-tag-real-time-calculator/issues"
+  },
+  "homepage": "https://github.com/libook/hexo-tag-real-time-calculator#readme"
+}
